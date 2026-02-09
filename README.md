@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hi, I’m Rasool Shaikh</h1>
 <h3 align="center">AI/ML Developer</h3>
 
-- 👨🏻‍🎓 A final-year undergrad at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram  
+- 👨🏻‍🎓 A graduate from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram  
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Generative AI  
 - 🌱 I’m currently learning advanced AI frameworks like LangChain and improving my skills in Neural Networks, NLP, and GANs  
-- 💞️ I’m looking to collaborate on AI-driven projects, especially in Data analysis and intelligent chatbot development  
 - 📫 How to reach me: rasool@sustainabilityeconomics.com
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love sports, especially football, and enjoy watching anime!
 
 ## 🛠️ Languages and Tools
